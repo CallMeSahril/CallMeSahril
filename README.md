@@ -1,5 +1,5 @@
 # Halo semua! 
-Perkenalkan nama saya **Sahril**.\
+Perkenalkan nama saya **Sahril**.
 Saya seorang **Flutter Developer** \
 
  
