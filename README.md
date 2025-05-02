@@ -53,14 +53,14 @@ I'm a Flutter developer with over 1 year of experience in creating efficient and
 
 ## Skills
 
-- **Flutter:** 8/10
-- **Dart:** 7/10
-- **Java:** 7/10
-- **Kotlin:** 8/10
-- **Getx:** 10/10
-- **Firebase:** 5/10
-- **Figma:** 8/10
-- **Provider:** 5/10
+- **Flutter:** Jonior To Middle
+- **Dart:** Jonior To Middle
+- **Java:** Jonior
+- **Kotlin:** Jonior
+- **Getx:** Middle
+- **Firebase:** Jonior
+- **Figma:** Middle
+
 
 ## Projects
 
