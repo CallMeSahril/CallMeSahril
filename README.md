@@ -53,12 +53,12 @@ I'm a Flutter developer with over 1 year of experience in creating efficient and
 
 ## Skills
 
-- **Flutter:** Jonior To Middle
-- **Dart:** Jonior To Middle
-- **Java:** Jonior
-- **Kotlin:** Jonior
+- **Flutter:** Junior To Middle
+- **Dart:** Junior To Middle
+- **Java:** Junior
+- **Kotlin:** Junior
 - **Getx:** Middle
-- **Firebase:** Jonior
+- **Firebase:** Junior
 - **Figma:** Middle
 
 
