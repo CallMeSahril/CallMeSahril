@@ -5,7 +5,7 @@ I'm a Flutter developer with over 1 year of experience in creating efficient and
 ## Professional Experience
 
 ### PT Maha Akbar Sejahtera
-**Flutter Developer** (Aug 2024 - Present)
+**Flutter Developer** (Aug 2024 - Maret 2025)
 - Designed, developed, and maintained HRIS applications according to company needs.
 - Built reusable components to enhance productivity and consistency.
 - Integrated applications with external services via API for additional data and functionality.
